@@ -1,0 +1,29 @@
+=========================================================================================
+
+  _____  ______ ______ ______ _____  ______ _   _  _____   ______ _____ _      ______ 
+ |  __ \|  ____|  ____|  ____|  __ \|  ____| \ | |/ ____| |  ____|_   _| |    |  ____|
+ | |__) | |__  | |__  | |__  | |__) | |__  |  \| | |      | |__    | | | |    | |__   
+ |  _  /|  __| |  __| |  __| |  _  /|  __| | . ` | |      |  __|   | | | |    |  __|  
+ | | \ \| |____| |    | |____| | \ \| |____| |\  | |____  | |     _| |_| |____| |____ 
+ |_|  \_\______|_|    |______|_|  \_\______|_| \_|\_____| |_|    |_____|______|______|
+                                                                                      
+                                                                                      
+=========================================================================================
+THIS IS A REFERENCE TO THE APPLICATON INSTALER POWERSHELL SRIPT
+
+Section 1: Overview
+Section 2: Error Codes
+Section 3: Modifying the Code
+
+
+                                        Secton 1 (Overview)
+        ApplicationX is a Powershell script that performs mass downloads whether over a network
+        connection or on a local computer. This script would be used in mass deployments of computers
+        over a local area network as primary use.
+
+                                        Section 2 (Error Codes)
+        [Error 356]
+            This error is to let you know that the Main function from the top down
+            has run into some sort of execution issue. Your best bet is to check the log file
+            for more informaton
+            

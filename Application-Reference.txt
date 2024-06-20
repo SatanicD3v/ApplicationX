@@ -1,0 +1,4 @@
+# WHERE APPLICATION URL'S ARE LOCATED
+#
+# example:
+# url://downloadsite.com/index/foo_download?download=true
